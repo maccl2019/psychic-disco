@@ -1,2 +1,2 @@
 # psychic-disco
-A demo repository
+Hello, World! This is a test repository.
